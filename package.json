@@ -1,0 +1,21 @@
+{
+  "name": "playoff",
+  "version": "0.0.1",
+  "description": "web app for hosting a sports playoff group bracket-guessing game",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dcolucci/playoff.git"
+  },
+  "author": "David Colucci <davidanthonycolucci@gmail.com>",
+  "license": "see LICENSE",
+  "dependencies": {
+    "react": "15.4.1",
+    "react-redux": "4.4.6",
+    "redux": "3.6.0",
+    "webpack": "2.2.0"
+  },
+  "devDependencies": {
+
+  }
+}
